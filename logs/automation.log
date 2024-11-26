@@ -1,0 +1,30 @@
+2024-11-25 16:00:45 INFO  Tc01_AccountRegistration:20 - ******** Starting Tc01_AccountRegistration *************
+2024-11-25 16:00:46 INFO  Tc01_AccountRegistration:26 - ******** Clicking on login Register *************
+2024-11-25 16:00:47 INFO  Tc01_AccountRegistration:31 - ******** Clicking on Continue Button *************
+2024-11-25 16:00:48 INFO  Tc01_AccountRegistration:36 - ******** Providing Necessary Data  *************
+2024-11-25 16:03:19 INFO  Tc01_AccountRegistration:69 - ******** Clicking on No Radio Button *************
+2024-11-25 16:03:39 ERROR Tc01_AccountRegistration:87 - ***********  Test Failed  ***********
+2024-11-25 16:03:59 INFO  TC02_AccountLogin:16 - *********** Starting TC02_verifying_Login_test_WIth_Invalid_Credentials ***********
+2024-11-25 16:03:59 INFO  TC02_AccountLogin:20 - *********** Click on Register/Login ***********
+2024-11-25 16:04:00 INFO  TC02_AccountLogin:24 - *********** Entering Login Data  ***********
+2024-11-25 16:04:02 INFO  TC02_AccountLogin:36 - *********** Finished TC_02_verifying_Login_test_WIth_Invalid_Credentials ***********
+2024-11-25 16:46:04 INFO  Tc01_AccountRegistration:20 - ******** Starting Tc01_AccountRegistration *************
+2024-11-25 16:46:04 INFO  Tc01_AccountRegistration:26 - ******** Clicking on login Register *************
+2024-11-25 16:46:05 INFO  Tc01_AccountRegistration:31 - ******** Clicking on Continue Button *************
+2024-11-25 16:46:06 INFO  Tc01_AccountRegistration:36 - ******** Providing Necessary Data  *************
+2024-11-25 16:48:37 INFO  Tc01_AccountRegistration:69 - ******** Clicking on No Radio Button *************
+2024-11-25 16:48:57 ERROR Tc01_AccountRegistration:87 - ***********  Test Failed  ***********
+2024-11-25 16:49:16 INFO  TC02_AccountLogin:16 - *********** Starting TC02_verifying_Login_test_WIth_Invalid_Credentials ***********
+2024-11-25 16:49:16 INFO  TC02_AccountLogin:20 - *********** Click on Register/Login ***********
+2024-11-25 16:49:17 INFO  TC02_AccountLogin:24 - *********** Entering Login Data  ***********
+2024-11-25 16:49:18 INFO  TC02_AccountLogin:36 - *********** Finished TC_02_verifying_Login_test_WIth_Invalid_Credentials ***********
+2024-11-25 17:08:02 INFO  Tc01_AccountRegistration:20 - ******** Starting Tc01_AccountRegistration *************
+2024-11-25 17:08:02 INFO  Tc01_AccountRegistration:26 - ******** Clicking on login Register *************
+2024-11-25 17:08:03 INFO  Tc01_AccountRegistration:31 - ******** Clicking on Continue Button *************
+2024-11-25 17:08:04 INFO  Tc01_AccountRegistration:36 - ******** Providing Necessary Data  *************
+2024-11-25 17:10:35 INFO  Tc01_AccountRegistration:69 - ******** Clicking on No Radio Button *************
+2024-11-25 17:10:55 ERROR Tc01_AccountRegistration:87 - ***********  Test Failed  ***********
+2024-11-25 17:11:14 INFO  TC02_AccountLogin:16 - *********** Starting TC02_verifying_Login_test_WIth_Invalid_Credentials ***********
+2024-11-25 17:11:14 INFO  TC02_AccountLogin:20 - *********** Click on Register/Login ***********
+2024-11-25 17:11:15 INFO  TC02_AccountLogin:24 - *********** Entering Login Data  ***********
+2024-11-25 17:11:16 INFO  TC02_AccountLogin:36 - *********** Finished TC_02_verifying_Login_test_WIth_Invalid_Credentials ***********

@@ -1,0 +1,16 @@
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\pageObjects\AccountCreatedPage.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\pageObjects\AccountLoginPage.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\pageObjects\BasePage.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\pageObjects\CreateAccountPage.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\pageObjects\HomePage.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\pageObjects\MyAccountPage.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\pageObjects\WelcomePage.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\testBase\BaseClass.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\testCases\Tc01_AccountRegistration.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\testCases\TC02_AccountLogin.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\testCases\TC03_LOginDDTC.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\testCases\TC04_AccountLoginWIthValidCredentials.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\com\testCases\TEstBasic.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\utilities\DataProviders.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\utilities\ExcelUtility.java
+C:\Users\Admin\eclipse-workspace\AutomationTestStore2\src\test\java\utilities\ExtentReportManager.java
